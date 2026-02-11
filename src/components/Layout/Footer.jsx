@@ -64,9 +64,9 @@ const Footer = () => {
                 </div>
 
                 <div className="border-t border-gray-800 pt-6 flex flex-col md:flex-row items-center justify-between text-sm text-gray-500">
-                    <p>© 2024 [Your Name]. All rights reserved.</p>
+                    <p>© 2026 Kalai. All rights reserved.</p>
                     <p className="flex items-center gap-2 mt-4 md:mt-0">
-                        Made with <Heart size={14} className="fill-rose-500 text-rose-500 animate-pulse" /> for [Her Name]
+                        Made with <Heart size={14} className="fill-rose-500 text-rose-500 animate-pulse" /> for Janu
                     </p>
                 </div>
             </div>
